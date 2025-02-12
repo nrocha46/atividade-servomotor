@@ -46,8 +46,6 @@ Este projeto implementa um sistema de controle PWM para um servomotor e um LED u
 git clone https://github.com/nrocha46/atividade-servomotor
 ```
 
-   
-
 2. **Compilar e Carregar o Código**:
    No VS Code, configure o ambiente e compile o projeto com os comandos:
 
