@@ -4,7 +4,7 @@
 
 <br>
 
-# Animações em LEDs com Raspberry Pi Pico W
+# Controle de um servo motor
   
 ## Descrição
 
